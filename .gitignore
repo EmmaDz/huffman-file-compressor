@@ -1,0 +1,14 @@
+# Compiled objects and executable
+*.o
+/huffman
+
+# Generated compression and decompression output
+*.huff
+/restored.txt
+/test-restored.txt
+
+# macOS and editor files
+.DS_Store
+._*
+.vscode/
+.idea/
